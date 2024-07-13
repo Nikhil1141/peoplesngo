@@ -1,0 +1,19 @@
+.navbar {
+    font-size: 17px;
+    line-height: 26px;
+    text-transform: uppercase;
+    box-shadow: 0 8px 6px -6px #999;
+    border-bottom: solid gray !important;
+}
+
+.nav-link {
+    font-weight: 400;
+}
+
+.active {
+    border-bottom: 2px solid black;
+}
+
+.nav-item {
+    color: black;
+}
